@@ -5,7 +5,7 @@ This is a demo application developed in Java 11 using
 and a few additional Java libraries (like [vavr](http://www.vavr.io/), [lombok](https://projectlombok.org/)).
 
 ## Genesis of this project
-I am a day-to-day Spring developer and I got used to this framework so much that I imagined how it would be to forget about it for a while
+I am a Java developer and I got used to this framework so much that I imagined how it would be to forget about it for a while
 and try to build completely pure Java application from scratch. 
 
 I thought it could be interesting from learning perspective and a bit refreshing.
