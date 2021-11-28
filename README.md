@@ -1,9 +1,5 @@
 ## REST API in pure Java without any frameworks
 
-This is a demo application developed in Java 11 using 
-[`jdk.httpserver`](https://docs.oracle.com/javase/10/docs/api/com/sun/net/httpserver/package-summary.html) module 
-and a few additional Java libraries (like [vavr](http://www.vavr.io/), [lombok](https://projectlombok.org/)).
-
 ## Genesis of this project
 I am a Java developer and I got used to this framework so much that I imagined how it would be to forget about it for a while
 and try to build completely pure Java application from scratch. 
